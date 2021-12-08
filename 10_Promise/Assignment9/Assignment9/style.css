@@ -1,0 +1,27 @@
+:root{
+    --theme-color:#fafafa;
+}
+body{
+    background-color: var(--theme-color);
+}
+.themes button{
+    float: right;
+    margin: 10px 0 0 10px;
+    height: 25px;
+    width: 25px;
+    border: 3px solid #fafafa;
+    border-radius: 720px;
+    cursor: pointer;
+}
+.btn1{
+    background-color: white;
+}
+.btn2{
+    background-color: wheat;
+}
+.btn3{
+    background-color: gray;
+}
+.btn4{
+    background-color: #52565e;
+}
